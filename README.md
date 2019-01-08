@@ -1,12 +1,20 @@
 ## springboot整合jsp
 
-访问http://localhost:8080/statuses/index
+访问
 
-点击后跳转到http://localhost:8080/statuses/limited
+http://localhost:8080/statuses/index
 
-http://localhost:8080/statuses/index显示图形界面
+点击后跳转到
 
-http://localhost:8080/statuses/limited显示json
+http://localhost:8080/statuses/limited
+
+http://localhost:8080/statuses/index
+
+显示图形界面
+
+http://localhost:8080/statuses/limited
+
+显示json
 
 ## 微博介绍地址
 
